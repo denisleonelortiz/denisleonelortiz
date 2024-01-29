@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub.
 Durante diez años me he desarrollado dentro de la industria textil, llegando a ocupar un puesto de responsabilidad. Aprendiendo a trabajar en equipo y a gestionar los recursos disponibles, ya sea materiales o personal, para la realización de objetivos.
 
 ## Hacia dónde voy?
-Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión.
+Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión la cual quiero desarrollar y profundizar.
 
 ## Con qué herramientas cuento?
 He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en:
@@ -18,7 +18,7 @@ He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conoci
   <li>Sequelize</li>
   <li>SQL</li>
 </ul> 
-Iniciando de esta manera un camino que me genera mucho entusiasmo.
+Iniciando de esta manera un camino de continuo aprendizaje que me genera mucho entusiasmo.
 
 Si buscas alguien con ganas de aportar valor y desarrollarse profesionalmente contáctame.   
 denisleonelortiz@gmail.com  
