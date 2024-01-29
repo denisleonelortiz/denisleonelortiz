@@ -9,7 +9,8 @@ He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conoci
 Iniciando de esta manera un camino que me genera mucho entusiasmo.
 
 Si buscas alguien con ganas de desarrollarse profesionalmente y aportar valor contáctame.   
-denisleonelortiz@gmail.com
+denisleonelortiz@gmail.com  
+https://www.linkedin.com/in/denis-leonel-ortiz-a46b10255/
 <!--
 **denisleonelortiz/denisleonelortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
