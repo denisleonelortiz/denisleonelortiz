@@ -20,7 +20,7 @@ He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conoci
 </ul> 
 Iniciando de esta manera un camino que me genera mucho entusiasmo.
 
-Si buscas alguien con ganas de desarrollarse profesionalmente y aportar valor contáctame.   
+Si buscas alguien con ganas de aportar valor y desarrollarse profesionalmente contáctame.   
 denisleonelortiz@gmail.com  
 https://www.linkedin.com/in/denis-leonel-ortiz-a46b10255/
 <!--
