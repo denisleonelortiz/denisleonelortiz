@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub.
 Durante diez años me he desarrollado en la industria textil, llegando a ocupar un puesto de responsabilidad y teniendo gente a cargo. Aprendí a trabajar en equipo, a gestionar los recursos disponibles y a orientar los esfuerzos conjuntos para la realización de objetivos.
 
 ## Hacia dónde voy?
-Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión la cual quiero desarrollar y profundizar.
+Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión que quiero desarrollar y profundizar.
 
 ## Con qué herramientas cuento?
 He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en:
