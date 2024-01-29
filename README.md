@@ -7,7 +7,17 @@ Durante diez años me he desarrollado dentro de la industria textil, llegando a 
 ## Hacia dónde voy?
 Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión.
 
-He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en JavaScript, React, Redux, Express, Sequelize entre otros. 
+## Con qué herramientas cuento?
+He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en:
+<ul>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Node</li>
+  <li>Express</li>
+  <li>Sequelize</li>
+  <li>SQL</li>
+</ul> 
 Iniciando de esta manera un camino que me genera mucho entusiasmo.
 
 Si buscas alguien con ganas de desarrollarse profesionalmente y aportar valor contáctame.   
