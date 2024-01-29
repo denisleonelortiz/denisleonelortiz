@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hola! 👋
+Bienvenido a mi perfil de LinkedIn.
 
+Durante diez años me he desarrollado dentro de la industria textil, llegando a ocupar un puesto de responsabilidad. Aprendiendo a trabajar en equipo y a gestionar los recursos disponibles, ya sea materiales o personal, para la realización de objetivos.
+
+Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión.
+
+He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en JavaScript, React, Redux, Express, Sequelize entre otros. 
+Iniciando de esta manera un camino que me genera mucho entusiasmo.
+
+Si buscas alguien con ganas de desarrollarse profesionalmente y aportar valor contáctame.
+denisleonelortiz@gmail.com
 <!--
 **denisleonelortiz/denisleonelortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
