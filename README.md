@@ -2,7 +2,7 @@
 Bienvenido a mi perfil de GitHub.
 
 ## De dónde vengo?
-Durante diez años me he desarrollado dentro de la industria textil, llegando a ocupar un puesto de responsabilidad. Aprendiendo a trabajar en equipo y a gestionar los recursos disponibles, ya sea materiales o personal, para la realización de objetivos.
+Durante diez años me he desarrollado en la industria textil, llegando a ocupar un puesto de responsabilidad y teniendo gente a cargo. Aprendí a trabajar en equipo y a gestionar los recursos disponibles, ya sea los materiales o el personal, para la realización de objetivos.
 
 ## Hacia dónde voy?
 Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión la cual quiero desarrollar y profundizar.
