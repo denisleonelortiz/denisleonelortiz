@@ -1,8 +1,10 @@
 ## Hola! 👋
 Bienvenido a mi perfil de GitHub.
 
+# De dónde vengo?
 Durante diez años me he desarrollado dentro de la industria textil, llegando a ocupar un puesto de responsabilidad. Aprendiendo a trabajar en equipo y a gestionar los recursos disponibles, ya sea materiales o personal, para la realización de objetivos.
 
+#Hacia dónde voy?
 Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión.
 
 He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en JavaScript, React, Redux, Express, Sequelize entre otros. 
