@@ -1,5 +1,5 @@
 ## Hola! 👋
-Bienvenido a mi perfil de LinkedIn.
+Bienvenido a mi perfil de GitHub.
 
 Durante diez años me he desarrollado dentro de la industria textil, llegando a ocupar un puesto de responsabilidad. Aprendiendo a trabajar en equipo y a gestionar los recursos disponibles, ya sea materiales o personal, para la realización de objetivos.
 
