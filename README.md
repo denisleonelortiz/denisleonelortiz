@@ -1,6 +1,9 @@
 ## Hola! 👋
 Bienvenido a mi perfil de GitHub.
 
+## Quién soy?
+Graduado como Full Stack Developer. Actualmente con conocimientos y experiencia en JavaScript, HTML, CSS, React, Redux, Express, Sequelize, PostgreSQL, entre otros. Apasionado por aprender y aplicar de la mejor forma todo lo relacionado al mundo del desarrollo.
+
 ## De dónde vengo?
 Durante diez años me he desarrollado en la industria textil, llegando a ocupar un puesto de responsabilidad y teniendo gente a cargo. Aprendí a trabajar en equipo, a gestionar los recursos disponibles y a orientar los esfuerzos conjuntos para la realización de objetivos.
 
