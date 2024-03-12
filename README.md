@@ -22,7 +22,7 @@ Me he desarrollado por mas de diez años en la industria textil, en la cual adqu
 Estoy en búsqueda de nuevas oportunidades que me permitan aprender, crecer y demostrar lo que tengo para aportar. 
 
 
-Si querés saber más de mí contactame. 
+Si querés saber más de mí contactame.  
 Email: denisleonelortiz@gmail.com  
 LinkedIn: www.linkedin.com/in/denis-leonel-ortiz
 <!--
