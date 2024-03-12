@@ -2,29 +2,29 @@
 Bienvenido a mi perfil de GitHub.
 
 ## Quién soy?
-Graduado como Full Stack Developer. Actualmente con conocimientos y experiencia en JavaScript, HTML, CSS, React, Redux, Express, Sequelize, PostgreSQL, entre otros. Apasionado por aprender y aplicar de la mejor forma todo lo relacionado al mundo del desarrollo.
-
-## De dónde vengo?
-Durante diez años me he desarrollado en la industria textil, llegando a ocupar un puesto de responsabilidad y teniendo gente a cargo. Aprendí a trabajar en equipo, a gestionar los recursos disponibles y a orientar los esfuerzos conjuntos para la realización de objetivos.
-
-## Hacia dónde voy?
-Mi curiosidad y constante deseo de progreso me pusieron en el camino del desarrollo web el cual me significo el descubrimiento de una pasión que quiero profundizar. Para poder realizar siempre desde la posición que me toque ocupar aportes de valor.
+Graduado como Full Stack Developer. Actualmente con conocimientos y experiencia en JavaScript, HTML, CSS, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, entre otros. Apasionado por el desarrollo web.
 
 ## Con qué herramientas cuento?
-He transitado el bootcamp de Full Stack Developer en SoyHenry adquiriendo conocimientos en:
 <ul>
   <li>JavaScript</li>
   <li>React</li>
   <li>Redux</li>
-  <li>Node</li>
+  <li>NodeJS</li>
   <li>Express</li>
   <li>Sequelize</li>
-  <li>SQL</li>
+  <li>PostgreSQL</li>
 </ul> 
 
-Si buscas alguien con ganas de aprender, crecer, contribuir con el grupo al que pertenezca y desarrollarse profesionalmente contáctame.   
-denisleonelortiz@gmail.com  
-www.linkedin.com/in/denis-leonel-ortiz
+## De dónde vengo?
+Me he desarrollado por mas de diez años en la industria textil, en la cual adquirí habilidades como el trabajo en equipo, gestion eficiente de los recursos disponibles y organizacion del grupo de trabajo para alcanzar objetivos.
+
+## Hacia dónde voy?
+Estoy en búsqueda de nuevas oportunidades que me permitan aprender, crecer y demostrar lo que tengo para aportar. 
+
+
+Si querés saber más de mí contactame. 
+Email: denisleonelortiz@gmail.com  
+LinkedIn: www.linkedin.com/in/denis-leonel-ortiz
 <!--
 **denisleonelortiz/denisleonelortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
