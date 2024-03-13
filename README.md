@@ -2,7 +2,7 @@
 Bienvenido a mi perfil de GitHub.
 
 ## Quién soy?
-Soy Leonel, graduado como Full Stack Developer en Henry. Actualmente con conocimientos y experiencia en JavaScript, HTML, CSS, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, entre otros. Apasionado por el desarrollo web.
+Soy Leonel, graduado como Full Stack Developer en Henry. Apasionado por el desarrollo web, especialmente en el lado del frontend. Encuentro muy satisfactorio el hecho de poder ver plasmado en el producto final mi aporte.
 
 ## Con qué herramientas cuento?
 <ul>
