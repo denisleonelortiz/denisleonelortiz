@@ -19,7 +19,7 @@ Soy Leonel, graduado como Full Stack Developer en Henry. Actualmente con conocim
 Me he desarrollado por mas de diez años en la industria textil, en la cual adquirí habilidades como el trabajo en equipo, gestion eficiente de los recursos disponibles y organizacion del grupo de trabajo para alcanzar objetivos.
 
 ## Hacia dónde voy?
-Estoy en búsqueda de nuevas oportunidades que me permitan aprender, crecer y demostrar lo que tengo para aportar. 
+Aspiro a un rol de Full Stack Developer donde pueda aprovechar mis habilidades técnicas y mi pasión por la resolución de problemas para contribuir al desarrollo de soluciones tecnológicas innovadoras.
 
 
 Si querés saber más de mí contactame.  
