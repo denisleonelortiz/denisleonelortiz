@@ -1,28 +1,27 @@
 ## Hola! 👋
-Bienvenido a mi perfil de GitHub.
 
-## Quién soy?
-Soy Leonel, graduado como Full Stack Developer en Henry. Apasionado por el desarrollo web, me motivan especialmente los desafios del lado del frontend. Encuentro muy satisfactorio el hecho de poder ver plasmado en el producto final mi aporte.
+Soy Leonel, graduado como Full Stack Developer en Henry. Aunque debo admitir, me entusiasman más los desafios del frontend, el poder tener impacto de manera visual en el producto final.
 
-## Con qué herramientas cuento?
+## Qué herramientas manejo?
 <ul>
   <li>JavaScript</li>
   <li>React</li>
   <li>Redux</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
   <li>NodeJS</li>
   <li>Express</li>
   <li>Sequelize</li>
   <li>PostgreSQL</li>
 </ul> 
 
-## De dónde vengo?
-Me he desarrollado por mas de diez años en la industria textil, en la cual adquirí habilidades como el trabajo en equipo, gestion eficiente de los recursos disponibles y organizacion del grupo de trabajo para alcanzar objetivos.
+## Mi Background?
+Más de diez años en la serigrafía textil. Adquirí habilidades blandas como el trabajo en equipo, la administración de los recursos disponibles y organizacion del grupo de trabajo para alcanzar objetivos.
 
-## Hacia dónde voy?
-Aspiro a un rol de Full Stack Developer donde pueda aprovechar mis habilidades técnicas y mi pasión por la resolución de problemas para contribuir al desarrollo de soluciones tecnológicas innovadoras.
+## Hacia dónde quiero ir?
+Aspiro desenvolverme en un rol como Frontend Developer donde pueda desarrollar mis habilidades, adquirir experiencia y aportar valor al grupo de trabajo.
 
-
-Si querés saber más de mí contactame.  
+## Contacto 
 Email: denisleonelortiz@gmail.com  
 LinkedIn: www.linkedin.com/in/denis-leonel-ortiz
 <!--
