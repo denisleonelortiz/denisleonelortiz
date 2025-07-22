@@ -6,7 +6,6 @@ Más de diez años en la serigrafía textil me permitieron adquirir habilidades 
 <ul>
   <li>JavaScript</li>
   <li>React</li>
-  <li>Redux</li>
   <li>Bootstrap</li>
   <li>Tailwind</li>
   <li>NodeJS</li>
