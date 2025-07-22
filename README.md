@@ -16,7 +16,7 @@ Más de diez años en la serigrafía textil me permitieron adquirir habilidades 
 </ul> 
 
 ## Que estoy buscando?
-Aspiro desenvolverme en un rol como Frontend Developer donde pueda desarrollar mis habilidades, adquirir experiencia y aportar valor al grupo de trabajo.
+Aunque tengo formación como Full Stack, aspiro desenvolverme en un rol como Frontend Developer donde pueda desarrollar mis habilidades, adquirir experiencia y aportar valor al grupo de trabajo.
 
 ## Contacto 
 Email: denisleonelortiz@gmail.com  
