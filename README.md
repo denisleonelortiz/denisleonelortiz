@@ -1,8 +1,8 @@
-## Hola! 👋
 
-Soy Leonel, graduado como Full Stack Developer en Henry. Aunque debo admitir, me entusiasman más los desafios del frontend, el poder tener impacto de manera visual en el producto final.
+## Background
+Más de diez años en la serigrafía textil. Adquirí habilidades blandas como el trabajo en equipo, organización de recursos y del grupo de trabajo para alcanzar los objetivos.
 
-## Qué herramientas manejo?
+## Stack
 <ul>
   <li>JavaScript</li>
   <li>React</li>
@@ -15,10 +15,7 @@ Soy Leonel, graduado como Full Stack Developer en Henry. Aunque debo admitir, me
   <li>PostgreSQL</li>
 </ul> 
 
-## Mi Background?
-Más de diez años en la serigrafía textil. Adquirí habilidades blandas como el trabajo en equipo, la administración de los recursos disponibles y organizacion del grupo de trabajo para alcanzar objetivos.
-
-## Hacia dónde quiero ir?
+## Que estoy buscando?
 Aspiro desenvolverme en un rol como Frontend Developer donde pueda desarrollar mis habilidades, adquirir experiencia y aportar valor al grupo de trabajo.
 
 ## Contacto 
