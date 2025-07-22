@@ -1,6 +1,6 @@
 
 ## Background
-Más de diez años en la serigrafía textil. Adquirí habilidades blandas como el trabajo en equipo, organización de recursos y del grupo de trabajo para alcanzar los objetivos.
+Más de diez años en la serigrafía textil me permitieron adquirir habilidades blandas como el trabajo en equipo, organización de recursos y manejo de personal (grupo de trabajo) para alcanzar los objetivos.
 
 ## Stack
 <ul>
